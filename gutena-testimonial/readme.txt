@@ -1,8 +1,8 @@
 === Gutena Testimonial Slider ===
-Contributors: expresstech, infosatech
+Contributors: wpexpertsio
 Tags: testimonial, review, testimonial slider, testimonials, client review
 Requires at least: 6.5
-Tested up to: 6.5
+Tested up to: 6.9
 Stable tag: 1.0.3
 Requires PHP: 5.6
 License: GPLv3
